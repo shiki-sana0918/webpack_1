@@ -1,0 +1,161 @@
+/*!********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/sass/index.scss ***!
+  \********************************************************************************************************************************************************/
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  color: #000;
+  background: #FFF;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+fieldset, img {
+  border: 0;
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+  font-style: normal;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+caption, th {
+  text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+q:before, q:after {
+  content: "";
+}
+
+abbr, acronym {
+  border: 0;
+  font-variant: normal;
+}
+
+sup {
+  vertical-align: text-top;
+}
+
+sub {
+  vertical-align: text-bottom;
+}
+
+input, textarea, select {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  *font-size: 100%;
+}
+
+legend {
+  color: #000;
+}
+
+#yui3-css-stamp.cssreset {
+  display: none;
+}
+
+.btn {
+  border: 0;
+  cursor: pointer;
+}
+.btn:hover {
+  opacity: 0.9;
+}
+.btn.btn--submit {
+  padding: 16px 30px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 16px;
+  background: -webkit-linear-gradient(316deg, #9181f4 0%, #5038ed 100%);
+  background: linear-gradient(134deg, #9181f4 0%, #5038ed 100%);
+  -webkit-box-shadow: 0px 8px 21px 0px rgba(0, 0, 0, 0.16);
+          box-shadow: 0px 8px 21px 0px rgba(0, 0, 0, 0.16);
+}
+.btn.btn--sns {
+  width: 364px;
+  height: 52px;
+  border-radius: 16px;
+  border: 1px solid #f0edff;
+  color: #1c1c1c;
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-color: #fff;
+}
+.btn.btn--sns .strong {
+  font-weight: 700;
+}
+
+.inputBox {
+  width: 364px;
+  height: 52px;
+  border-radius: 16px;
+  background: rgba(240, 237, 255, 0.8);
+  padding: 14px 18px;
+  outline: none;
+  border: 0;
+}
+
+.login {
+  width: 364px;
+  margin: 0 auto;
+  padding-top: 150px;
+}
+.login .login__title {
+  color: #000;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+}
+.login .login__subTitle {
+  margin-top: 12px;
+  text-align: center;
+  color: #525252;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+}
+.login .login__form {
+  margin-top: 6px;
+}
+.login .login__form .login__form__input {
+  margin-top: 18px;
+}
+.login .login__form .login__form__submit {
+  margin-top: 24px;
+  text-align: center;
+}
+.login .login__form .login__form__line {
+  margin-top: 24px;
+  text-align: center;
+}
+.login .login__form .login__form__sns {
+  margin-top: 16px;
+}
